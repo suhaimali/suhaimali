@@ -1,15 +1,15 @@
 
 # 💫 About Me
-Hi, I'm Nihan Ali!  
+Hi, I'm suhiam ali vp suhaim soft
 
 🔭 **Currently Working On:**  
-Building cross-platform Flutter apps and designing IoT devices.
+Building cross-platform react native app and website devlapmet.
 
 🌱 **Currently Learning:**  
-Flutter and advanced embedded systems.
+Full stack devlapment.
                                             
 💬 **Ask Me About:**  
-Flutter, IoT, video editing, PCB design and graphic designing.
+html ccs sraect native 
 
 
 ---
