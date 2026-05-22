@@ -1,18 +1,19 @@
 # 👨‍💻 Suhaim Ali VP
 
-Full Stack Developer (PHP • Laravel • SQL)
+Full Stack Developer (PHP • Laravel • SQL)  
+AI Developer (Basic)
 
 ---
 
 ## About Me
 I build web applications using PHP and Laravel.  
-Focused on workshop and business management systems.
+Focused on Lab Management System software and AI development.
 
 ---
 
 ## Project
 🧪 Lab Management System (Web Application)  
-✔ Already built software for lab operations and workflow
+✔ Completed software for lab management operations and workflow
 
 ---
 
@@ -23,6 +24,7 @@ Focused on workshop and business management systems.
 - HTML  
 - CSS  
 - JavaScript  
+- AI Development (Basic)
 
 ---
 
@@ -33,14 +35,12 @@ Focused on workshop and business management systems.
 
 ---
 
-## 🌐 Social Links
-- LinkedIn: https://www.linkedin.com/in/info-suhaimsoft-281a203b9/
+## 🌐 Social
+LinkedIn: https://www.linkedin.com/in/info-suhaimsoft-281a203b9/
 
 ---
 
 ## 🚀 Our Work
-Explore our recent successful projects:
-
 - https://www.dayahomeopathy.com/
 - https://ozondetailing.in/
 - https://www.lapoelection.com/
