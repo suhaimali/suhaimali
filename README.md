@@ -101,13 +101,6 @@ A complete digital system built for lab/workflow management.
 
 ---
 
-## ⚡ Development Philosophy (Anti-Gravity Mindset)
-
-* Always improve, never stay static
-* Learn by building real systems
-* Use AI as a development partner, not a shortcut
-* Focus on clean, scalable, real-world solutions
-* Every project is a learning upgrade
 
 ---
 
