@@ -1,43 +1,40 @@
+
 # 👨‍💻 Suhaim Ali VP
 
-🚀 Full Stack Developer (PHP • Laravel • SQL • React)  
-📱 React Native Developer (Basic)
+Full Stack Developer (PHP • Laravel • SQL)
 
 ---
 
-## 🔭 Current Focus
-Building a **Lab Management System** (Web + Mobile)
+## About Me
+I build web applications focused on real workshop operations and management systems.
 
 ---
 
-## 🧠 Skills
-
-### 🌐 Frontend
-HTML • CSS • JavaScript • React  
-
-### ⚙️ Backend
-PHP • Laravel • Node.js  
-
-### 🗄️ Database
-MySQL • SQL • Firebase  
-
-### 📱 Mobile
-React Native (Basic)  
-
-### 🛠️ Tools
-Git • GitHub • NPM  
+## Project
+🛠️ Workshop Lab Management System (Web Application)
 
 ---
 
-## 💻 Tech Stack
-PHP • Laravel • MySQL • React • React Native • Firebase  
+## Skills
+- PHP  
+- Laravel  
+- SQL / MySQL  
+- HTML  
+- CSS  
+- JavaScript  
 
 ---
 
-## 📬 Contact
-📧 qwerty311980@gmail.com  
-📸 https://www.instagram.com/nihan__3119/
+## Tools
+- Git  
+- GitHub  
+- NPM  
 
 ---
 
-⭐ Suhaim Soft | Full Stack Development
+## Contact
+Email: info@suhaimsoft.com  
+
+---
+
+⭐ Suhaim Soft
