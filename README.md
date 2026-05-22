@@ -1,4 +1,3 @@
-
 # 👨‍💻 Suhaim Ali VP
 
 Full Stack Developer (PHP • Laravel • SQL)
@@ -6,12 +5,12 @@ Full Stack Developer (PHP • Laravel • SQL)
 ---
 
 ## About Me
-I build web applications focused on real workshop operations and management systems.
+I build web applications using PHP and Laravel.
 
 ---
 
 ## Project
-🛠️ Workshop Lab Management System (Web Application)
+🧪 Lab Management System (Web Application)
 
 ---
 
