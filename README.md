@@ -16,9 +16,9 @@ I focus on building real-world software systems and improving my skills through 
 
 * PHP Programming
 * Laravel Framework
-* SQL
+* SQL (Database Design & Queries)
 * Web Application Development
-* AI-assisted coding and software development
+* AI-assisted Coding & Software Development
 * Digital Marketing (AI-based learning for online growth)
 
 ---
@@ -39,6 +39,8 @@ A complete digital system built for lab/workflow management.
 
 * Built for real-world lab operations
 * Uses SQL database for structured data handling
+* Automates workflow processes
+* Improves efficiency and data management
 
 ---
 
@@ -54,10 +56,9 @@ A complete digital system built for lab/workflow management.
 ### Backend & Database
 
 * Laravel Framework
-* SQL (Database Design, Queries)
-* Database Design (Normalization, Relationships)
+* SQL (Database Design & Queries)
 * CRUD Operations (Create, Read, Update, Delete)
-* Advanced Queries (JOINs, GROUP BY, HAVING)
+* Advanced Queries (JOIN, GROUP BY, HAVING)
 * Views & Stored Procedures (Basic)
 * Indexing (Basic Optimization)
 * Data Security & Access Control Basics
@@ -78,13 +79,15 @@ A complete digital system built for lab/workflow management.
 
 * AI-assisted coding for faster development
 * AI debugging support
-* AI-based code suggestions
+* AI code suggestions
 * Learning acceleration using AI tools
 
 ---
 
 ## 🌐 Web & Deployment
 
+* Git & GitHub (Version Control)
+* Vercel (Deployment)
 * Netlify (Frontend Hosting)
 * Basic Hosting & Deployment Understanding
 * Domain & Website Management Basics
@@ -101,6 +104,9 @@ A complete digital system built for lab/workflow management.
 
 ---
 
+## 🌐 Live Website
+
+🔗 [https://suhaimsoft.netlify.app/](https://suhaimsoft.netlify.app/)
 
 ---
 
@@ -110,9 +116,13 @@ A complete digital system built for lab/workflow management.
 
 ---
 
-## 🌐 LinkedIn
+## 🌐 Social Media
 
-🔗 [https://www.linkedin.com/in/info-suhaimsoft-281a203b9/](https://www.linkedin.com/in/info-suhaimsoft-281a203b9/)
+🔗 Live Website: [https://suhaimsoft.netlify.app/](https://suhaimsoft.netlify.app/)
+
+🔗 LinkedIn: [https://www.linkedin.com/in/info-suhaimsoft-281a203b9/](https://www.linkedin.com/in/info-suhaimsoft-281a203b9/)
+
+🔗 Instagram: [https://www.instagram.com/suhaimsoft?igsh=MWpzazg4emk2N2R3bQ==](https://www.instagram.com/suhaimsoft?igsh=MWpzazg4emk2N2R3bQ==)
 
 ---
 
@@ -127,13 +137,13 @@ A complete digital system built for lab/workflow management.
 
 ## 📬 Contact
 
-* 📧 [info@suhaimsoft.com](mailto:info@suhaimsoft.com)
+📧 [info@suhaimsoft.com](mailto:info@suhaimsoft.com)
 
 ---
 
 ## ⭐ Vision
 
-To become a strong Full Stack + AI Developer, building powerful, intelligent, and scalable software solutions for real-world business systems.
+To become a strong Full Stack + AI Developer, building intelligent and scalable software solutions for real-world business systems.
 
 ---
 
