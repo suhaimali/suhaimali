@@ -1,13 +1,13 @@
 # 👨‍💻 Suhaim Ali VP
 
 Full Stack Developer (PHP • Laravel • SQL)  
-AI Developer (Basic)
+AI Developer (Advanced – using AI for coding, building full web applications & websites)
 
 ---
 
 ## About Me
-I build web applications using PHP and Laravel.  
-Focused on Lab Management System software and AI development.
+I am a Full Stack Developer specializing in PHP and Laravel.  
+I build real-world, scalable web applications and modern software systems using AI-assisted development.
 
 ---
 
@@ -24,7 +24,7 @@ Focused on Lab Management System software and AI development.
 - HTML  
 - CSS  
 - JavaScript  
-- AI Development (Basic)
+- AI Development (Advanced – coding, web apps, website building)
 
 ---
 
@@ -32,6 +32,7 @@ Focused on Lab Management System software and AI development.
 - Git  
 - GitHub  
 - NPM  
+- AI Tools (for development & automation)
 
 ---
 
@@ -53,4 +54,4 @@ Email: info@suhaimsoft.com
 
 ---
 
-⭐ Suhaim Soft
+⭐ Suhaim Soft | Building Smart Software with AI
