@@ -62,14 +62,6 @@ A complete web-based laboratory management system.
 * Report Printing
 * Dashboard & Analytics
 
-#### Key Features
-
-* Laravel backend system
-* MySQL structured database
-* Fast and reliable processing
-* Secure data storage
-* Efficient workflow management
-
 ---
 
 ### 🚗 Workshop Management System (PHP / Laravel / MySQL)
@@ -88,14 +80,6 @@ A complete automobile workshop management system.
 * Service History Tracking
 * Reports & Analytics
 * Inventory Management
-
-#### Key Features
-
-* Laravel-based backend
-* MySQL database architecture
-* Automated billing system
-* Service workflow management
-* Clean and simple dashboard
 
 ---
 
@@ -116,8 +100,6 @@ A complete automobile workshop management system.
 * React.js
 * Frontend UI Development
 
----
-
 ### 🔧 Laboratory System
 
 * PHP
@@ -126,16 +108,12 @@ A complete automobile workshop management system.
 * Blade Templates
 * SQL Database Design
 
----
-
 ### 🚗 Workshop System
 
 * PHP
 * Laravel Framework
 * MySQL
 * Blade Templates
-* Inventory & Billing Modules
-* Service Management System Architecture
 
 ---
 
@@ -151,8 +129,8 @@ A complete automobile workshop management system.
 
 ## 🌐 Projects & Websites
 
-* https://suhaimsoft.in/ (Main Software & EMR Projects)
-* https://awwarlabs.in/ (Laboratory System Project)
+* https://suhaimsoft.in/
+* https://awwarlabs.in/
 
 ---
 
@@ -179,4 +157,5 @@ To become a skilled Full Stack Developer and Cyber Security Professional, buildi
 ### Suhaim Soft
 
 Building Smart Software Solutions with Modern Technology & AI.
+
 
