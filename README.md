@@ -8,23 +8,22 @@
 
 Hi, I'm Suhaim Ali VP, founder of Suhaim Soft.
 
-I am currently pursuing a Bachelor of Computer Applications (BCA) in Cyber Security while building real-world software solutions. I specialize in developing secure, scalable, and efficient web applications for healthcare, laboratories, workshops, and business systems using modern web technologies.
+I am currently pursuing a Bachelor of Computer Applications (BCA) in Cyber Security while building real-world software applications and web systems. I specialize in developing secure, scalable, and efficient solutions for healthcare, laboratory, workshop, and business automation using modern web technologies.
 
 ---
 
 ## 🎓 Education
 
 **Bachelor of Computer Applications (BCA) – Cyber Security**
-
 Currently Pursuing Degree Studies
 
 ---
 
-## 💼 All-in-One EMR & Software Solutions
+## 💼 All-in-One Software Solutions
 
-### 🏥 Suhaim Soft EMR System (MERN Stack Web Application)
+### 🏥 EMR & Healthcare Management System
 
-A complete Electronic Medical Record (EMR) system designed for clinics, hospitals, laboratories, and healthcare centers.
+A complete Electronic Medical Record (EMR) and healthcare management platform designed for clinics, hospitals, laboratories, and healthcare centers.
 
 #### Core Modules
 
@@ -42,19 +41,38 @@ A complete Electronic Medical Record (EMR) system designed for clinics, hospital
 
 #### Key Features
 
-* Real-time data handling
-* Fast and responsive UI
-* Secure patient data management
+* Real-time data processing
+* Fast and responsive interface
+* Secure patient data handling
 * Scalable architecture
 * Automated reporting system
 
 ---
 
-### 🚗 Workshop Management System (Laravel / PHP / MySQL)
+### 🔬 Laboratory Management System
 
-A complete Workshop Management Web Application built using Laravel, PHP, and MySQL for automobile service centers and workshops.
+A complete digital laboratory web application for managing laboratory operations.
 
-#### Core Modules
+#### Features
+
+* Patient Registration
+* Sample Collection & Tracking
+* Test Management
+* Laboratory Report Generation
+* Billing & Invoicing
+* Payment Tracking
+* Record Management
+* Search & Filtering
+* Report Printing
+* Dashboard & Analytics
+
+---
+
+### 🚗 Workshop Management System
+
+A complete workshop automation system for automobile service centers.
+
+#### Features
 
 * Customer Management
 * Vehicle Management
@@ -67,53 +85,57 @@ A complete Workshop Management Web Application built using Laravel, PHP, and MyS
 * Reports & Analytics
 * Inventory Management
 
-#### Key Features
-
-* Fast Laravel backend system
-* Structured MySQL database
-* Easy service tracking workflow
-* Invoice & billing automation
-* Dashboard analytics
-
 ---
 
 ## 🚀 Other Solutions
 
 * Laboratory Management System
+* Workshop Management System
 * Custom Web Application Development
+* EMR System (Healthcare Solution)
+* MERN Stack Web Applications
+
+---
+
+## 🌐 Projects & Websites
+
+* https://suhaimsoft.in/ (Main Company Website + Projects + EMR Systems)
+* https://awwarlabs.in/ (Laboratory Project System)
 
 ---
 
 ## 💻 Technologies
 
-### 🧠 EMR System
+### Frontend
 
-* MongoDB
-* React.js
+* HTML5
+* CSS3
+* JavaScript
+* React.js (MERN Projects)
 
-### 🔧 Workshop System
+### Backend
 
 * PHP
 * Laravel Framework
 * MySQL
-* Blade Templates
-* SQL Database Design
+* MongoDB (for MERN EMR System)
+
+### Tools
+
+* Git & GitHub
+* VS Code
+* XAMPP
+* REST API Integration
 
 ---
 
 ## 🤖 AI-Assisted Development
 
 * AI Coding Assistance
-* Faster Development Workflow
 * Debugging Support
 * Code Optimization
-* Automation Tools
-
----
-
-## 🌐 Portfolio
-
-Website: https://suhaimsoft.in/
+* Faster Development Workflow
+* Automation in Development Tasks
 
 ---
 
@@ -129,12 +151,13 @@ Website: https://suhaimsoft.in/
 ## 📧 Contact
 
 Email: [info@suhaimsoft.com](mailto:info@suhaimsoft.com)
+Website: https://suhaimsoft.in/
 
 ---
 
 ## ⭐ Vision
 
-To build powerful, secure, and intelligent software systems for healthcare, laboratories, workshops, and businesses using modern web technologies and AI-driven development.
+To become a skilled Full Stack Developer and Cyber Security Professional, building secure, scalable, and intelligent software solutions for healthcare, laboratories, workshops, and businesses using modern technologies and AI.
 
 ### Suhaim Soft
 
