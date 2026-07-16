@@ -1,238 +1,180 @@
-<div align="center">
+# 👨‍💻 Suhaim Ali VP (Suhaim Soft)
 
-# 👨‍💻 Suhaim Ali VP
-
-### Founder & Full Stack Web Developer
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C6FF,50:0072FF,100:6A11CB&text=SUHAIM%20SOFT&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub;Founder+of+Suhaim+Soft;Full+Stack+Web+Developer;Laravel+Developer;React+Developer;PHP+%7C+Laravel+%7C+React+%7C+MySQL;Building+Enterprise+Business+Software;Healthcare+%7C+Laboratory+%7C+Workshop+Solutions;AI+Powered+Software+Development"/>
-
-<p>
-
-<a href="https://suhaimsoft.in">
-<img src="https://img.shields.io/badge/🌐_Website-SuhaimSoft-0ea5e9?style=for-the-badge"/>
-</a>
-
-<a href="mailto:info@suhaimsoft.com">
-<img src="https://img.shields.io/badge/📧_Email-Contact-success?style=for-the-badge"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&style=for-the-badge&color=blue"/>
-
-</p>
-
-</div>
+🚀 BCA Student | Full Stack Web Developer
 
 ---
 
-# 🚀 About Me
+## 👋 About Me
 
-Hi, I'm **Suhaim Ali VP**, Founder of **Suhaim Soft**.
+Hi, I'm Suhaim Ali VP, founder of Suhaim Soft.
 
-I am currently pursuing a **Bachelor of Computer Applications (BCA)** while building professional software solutions for businesses.
-
-I specialize in developing modern, scalable, responsive, and intelligent web applications using the latest technologies.
+I am currently pursuing a Bachelor of Computer Applications (BCA) while building real-world software applications. I specialize in developing secure, scalable, and efficient web systems for healthcare, laboratories, workshops, and business automation using modern web technologies.
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
-🎓 Bachelor of Computer Applications (BCA)
+**Bachelor of Computer Applications (BCA)**
 
-Currently Pursuing
-
----
-
-# 🏢 Software Solutions
-
-## 🏥 Electronic Medical Record (EMR)
-
-- Patient Registration
-- Appointment Management
-- Doctor Management
-- Digital Prescription
-- Medical History
-- Laboratory Integration
-- Billing
-- Reports
-- Analytics
-- Dashboard
-
-### Features
-
-- Responsive Dashboard
-- Secure Records
-- Fast Performance
-- PDF Prescriptions
-- Follow-up Management
-- Smart Search
-- Analytics
+Currently Pursuing Degree Studies
 
 ---
 
-## 🔬 Laboratory Management System
+## 💼 Software Solutions
 
-- Patient Registration
-- Sample Collection
-- Sample Tracking
-- Test Management
-- Barcode Support
-- Report Generation
-- Billing
-- Payment Tracking
-- Reports
-- Dashboard
+### 🏥 EMR (Electronic Medical Record System)
 
-### Features
+A complete EMR system for clinics, hospitals, and healthcare centers.
 
-- Laboratory Workflow
-- Report Printing
-- PDF Reports
-- Online Reports
-- Search Filters
-- Analytics
-- Inventory
+#### Core Modules
 
----
+* Patient Registration & Records
+* Electronic Medical Records (EMR)
+* Doctor Management
+* Appointment Scheduling
+* Prescription Management
+* Medical History Tracking
+* Billing & Invoice System
+* Reports & Analytics
 
-## 🚗 Workshop Management System
+#### Key Features
 
-- Customer Management
-- Vehicle Management
-- Job Cards
-- Service Tracking
-- Spare Parts
-- Inventory
-- Billing
-- Payments
-- Reports
-- Dashboard
-
-### Features
-
-- Vehicle History
-- Service Reminders
-- Professional Billing
-- Real-time Updates
-- Inventory Control
-- Analytics
+* Fast and responsive system
+* Secure patient data handling
+* Automated medical workflow
+* Clean and easy dashboard
 
 ---
 
-# 🚀 Other Solutions
+### 🔬 Laboratory Management System (PHP / Laravel / MySQL)
 
-- ERP Systems
-- CRM Systems
-- Inventory Management
-- Billing Software
-- Business Websites
-- Custom Web Applications
-- Pharmacy ERP
-- Wholesale ERP
-- POS Systems
+A complete laboratory management system designed to digitalize lab operations.
 
----
+#### Core Modules
 
-# 💻 Technology Stack
+* Patient Registration
+* Sample Collection & Tracking
+* Test Management
+* Laboratory Report Generation
+* Billing & Invoice System
+* Payment Tracking
+* Record Management
+* Report Printing & Export
+* Dashboard & Analytics
+* Search & Filtering
 
-<div align="center">
+#### Key Features
 
-<img src="https://skillicons.dev/icons?i=php,laravel,react,nextjs,nodejs,mongodb,mysql,html,css,js,ts,tailwind,bootstrap,git,github,vscode"/>
-
-</div>
-
----
-
-# 🤖 AI-Assisted Development
-
-- AI Coding Assistance
-- Code Optimization
-- Debugging
-- Performance Optimization
-- Workflow Automation
-- Smart Development
+* Fully automated lab workflow
+* Fast and secure data processing
+* Easy report generation
+* Real-time tracking system
+* Clean user interface
+* Scalable for all lab sizes
 
 ---
 
-# 🌐 Websites
+### 🚗 Workshop Management System (PHP / Laravel / MySQL)
 
-- https://suhaimsoft.in/
-- https://awwarlabs.in/
+A complete automobile workshop management system.
 
----
+#### Core Modules
 
-# 🚀 Client Projects
+* Customer Management
+* Vehicle Management
+* Job Card Management
+* Service Tracking
+* Spare Parts Inventory
+* Billing & Invoice System
+* Payment Management
+* Service History Tracking
+* Reports & Analytics
+* Inventory Management
 
-- https://www.dayahomeopathy.com/
-- https://ozondetailing.in/
-- https://www.lapoelection.com/
-- https://stonexterio.in/
+#### Key Features
 
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</div>
+* Digital workshop workflow system
+* Fast and structured database design
+* Automated billing and job tracking
+* Easy vehicle service management
+* Secure customer data handling
+* Real-time service updates
+* Professional dashboard system
 
 ---
 
-# 📈 Contribution Graph
+## 🚀 Other Solutions
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
+* Laboratory Management System
+* Workshop Management System
+* EMR Healthcare System
+* Custom Web Application Development
 
 ---
 
-# 📞 Contact Me
+## 💻 Technologies
 
-<div align="center">
+### EMR System
 
-📧 **info@suhaimsoft.com**
+* MongoDB
+* React.js
+* Frontend UI Development
 
-🌐 **https://suhaimsoft.in**
+### Laboratory System
 
-</div>
+* PHP
+* Laravel Framework
+* MySQL
+* Blade Templates
+
+### Workshop System
+
+* PHP
+* Laravel Framework
+* MySQL
+* Blade Templates
+* SQL Database Design
 
 ---
 
-<div align="center">
+## 🤖 AI-Assisted Development
 
-## ⭐ Suhaim Soft
+* AI Coding Assistance
+* Debugging Support
+* Code Optimization
+* Faster Development Workflow
+* Automation in Development
 
-### Building Smart Software Solutions
+---
 
-### Modern • Fast • Responsive • Scalable • AI Powered
+## 🌐 Projects & Websites
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:00C6FF,50:0072FF,100:6A11CB"/>
+* https://suhaimsoft.in/
+* https://awwarlabs.in/
 
-</div>
+---
+
+## 🚀 Client Projects
+
+* https://www.dayahomeopathy.com/
+* https://ozondetailing.in/
+* https://www.lapoelection.com/
+* https://stonexterio.in/
+
+---
+
+## 📧 Contact
+
+**Email:** info@suhaimsoft.com
+
+**Website:** https://suhaimsoft.in/
+
+---
+
+## ⭐ Vision
+
+To become a skilled Full Stack Developer, building secure, scalable, and intelligent software systems for healthcare, laboratories, workshops, and businesses using modern technologies.
+
+### Suhaim Soft
+
+**Building Smart Software Solutions with Modern Technology & AI.**
