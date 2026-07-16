@@ -1,172 +1,144 @@
 <div align="center">
 
-# 🚀 Suhaim Ali VP
+# 👨‍💻 Suhaim Ali VP
 
 ### Founder & Full Stack Web Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Founder+of+Suhaim+Soft;Full+Stack+Web+Developer;Building+Modern+Business+Software;Laravel+%7C+React+%7C+PHP+%7C+MySQL;AI+Assisted+Software+Development" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C6FF,50:0072FF,100:6A11CB&text=SUHAIM%20SOFT&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub;Founder+of+Suhaim+Soft;Full+Stack+Web+Developer;Laravel+Developer;React+Developer;PHP+%7C+Laravel+%7C+React+%7C+MySQL;Building+Enterprise+Business+Software;Healthcare+%7C+Laboratory+%7C+Workshop+Solutions;AI+Powered+Software+Development"/>
 
-[![Website](https://img.shields.io/badge/Website-SuhaimSoft-0ea5e9?style=for-the-badge)](https://suhaimsoft.in/)
-[![Email](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge)](mailto:info@suhaimsoft.com)
+<p>
+
+<a href="https://suhaimsoft.in">
+<img src="https://img.shields.io/badge/🌐_Website-SuhaimSoft-0ea5e9?style=for-the-badge"/>
+</a>
+
+<a href="mailto:info@suhaimsoft.com">
+<img src="https://img.shields.io/badge/📧_Email-Contact-success?style=for-the-badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&style=for-the-badge&color=blue"/>
+
+</p>
 
 </div>
 
 ---
 
-# 👋 About Me
+# 🚀 About Me
 
-I'm **Suhaim Ali VP**, Founder of **Suhaim Soft**.
+Hi, I'm **Suhaim Ali VP**, Founder of **Suhaim Soft**.
 
-I build modern, scalable, and user-friendly web applications for healthcare, laboratories, workshops, and business management.
+I am currently pursuing a **Bachelor of Computer Applications (BCA)** while building professional software solutions for businesses.
 
-My focus is creating professional software with clean UI, optimized performance, secure architecture, and automation powered by AI.
+I specialize in developing modern, scalable, responsive, and intelligent web applications using the latest technologies.
 
 ---
 
 # 🎓 Education
 
-### Bachelor of Computer Applications (BCA)
+🎓 Bachelor of Computer Applications (BCA)
 
 Currently Pursuing
 
 ---
 
-# 🚀 Software Solutions
+# 🏢 Software Solutions
 
-<div align="center">
+## 🏥 Electronic Medical Record (EMR)
 
-| 🏥 Healthcare | 🔬 Laboratory | 🚗 Workshop |
-|--------------|---------------|-------------|
-| EMR System | Laboratory Management | Workshop ERP |
-| Clinic Management | Sample Tracking | Vehicle Management |
-| Digital Prescriptions | Billing | Job Cards |
-| Patient Records | Reports | Spare Parts |
-
-</div>
-
----
-
-# 🏥 EMR Management System
-
-## Modules
-
-- 👨‍⚕️ Patient Registration
-- 📅 Appointment Management
-- 🩺 Doctor Management
-- 💊 Digital Prescription
-- 📂 Medical Records
-- 💳 Billing & Payments
-- 📈 Reports & Analytics
+- Patient Registration
+- Appointment Management
+- Doctor Management
+- Digital Prescription
+- Medical History
+- Laboratory Integration
+- Billing
+- Reports
+- Analytics
+- Dashboard
 
 ### Features
 
-✅ Responsive Dashboard
-
-✅ Fast Performance
-
-✅ Smart Workflow
-
-✅ Modern UI
-
-✅ Secure Architecture
+- Responsive Dashboard
+- Secure Records
+- Fast Performance
+- PDF Prescriptions
+- Follow-up Management
+- Smart Search
+- Analytics
 
 ---
 
-# 🔬 Laboratory Management System
-
-## Modules
+## 🔬 Laboratory Management System
 
 - Patient Registration
 - Sample Collection
+- Sample Tracking
 - Test Management
-- Result Generation
+- Barcode Support
+- Report Generation
 - Billing
 - Payment Tracking
-- Report Printing
-- Analytics Dashboard
+- Reports
+- Dashboard
 
 ### Features
 
-✅ Automated Laboratory Workflow
-
-✅ Fast Report Generation
-
-✅ Smart Search
-
-✅ Barcode Ready
-
-✅ Professional Dashboard
-
-✅ Real-Time Tracking
+- Laboratory Workflow
+- Report Printing
+- PDF Reports
+- Online Reports
+- Search Filters
+- Analytics
+- Inventory
 
 ---
 
-# 🚗 Workshop Management System
-
-## Modules
+## 🚗 Workshop Management System
 
 - Customer Management
 - Vehicle Management
 - Job Cards
+- Service Tracking
 - Spare Parts
 - Inventory
 - Billing
 - Payments
-- Service History
 - Reports
+- Dashboard
 
 ### Features
 
-✅ Modern Dashboard
-
-✅ Fast Workflow
-
-✅ Inventory Control
-
-✅ Service Tracking
-
-✅ Professional Billing
+- Vehicle History
+- Service Reminders
+- Professional Billing
+- Real-time Updates
+- Inventory Control
+- Analytics
 
 ---
 
-# 💼 Other Solutions
+# 🚀 Other Solutions
 
-✨ Business Management Software
-
-✨ ERP Systems
-
-✨ Custom Web Applications
-
-✨ Inventory Systems
-
-✨ Billing Systems
-
-✨ CRM Solutions
+- ERP Systems
+- CRM Systems
+- Inventory Management
+- Billing Software
+- Business Websites
+- Custom Web Applications
+- Pharmacy ERP
+- Wholesale ERP
+- POS Systems
 
 ---
 
-# 💻 Tech Stack
+# 💻 Technology Stack
 
 <div align="center">
 
-### Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-
-### Backend
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb)
+<img src="https://skillicons.dev/icons?i=php,laravel,react,nextjs,nodejs,mongodb,mysql,html,css,js,ts,tailwind,bootstrap,git,github,vscode"/>
 
 </div>
 
@@ -174,30 +146,23 @@ Currently Pursuing
 
 # 🤖 AI-Assisted Development
 
-- 🤖 AI Powered Development
-- ⚡ Faster Coding
-- 🛠 Code Optimization
-- 🐞 Debugging
-- 📈 Performance Improvement
-- 🚀 Productivity Enhancement
+- AI Coding Assistance
+- Code Optimization
+- Debugging
+- Performance Optimization
+- Workflow Automation
+- Smart Development
 
 ---
 
-# 🌐 Projects
+# 🌐 Websites
 
-### Official Website
-
-🌍 https://suhaimsoft.in/
-
-### Products
-
-- 🏥 EMR Management System
-- 🔬 Laboratory Management System
-- 🚗 Workshop Management System
+- https://suhaimsoft.in/
+- https://awwarlabs.in/
 
 ---
 
-# 👨‍💼 Client Projects
+# 🚀 Client Projects
 
 - https://www.dayahomeopathy.com/
 - https://ozondetailing.in/
@@ -206,22 +171,68 @@ Currently Pursuing
 
 ---
 
-# 📞 Contact
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 📞 Contact Me
+
+<div align="center">
 
 📧 **info@suhaimsoft.com**
 
-🌐 **https://suhaimsoft.in/**
+🌐 **https://suhaimsoft.in**
+
+</div>
 
 ---
 
 <div align="center">
 
-# ⭐ Suhaim Soft
+## ⭐ Suhaim Soft
 
 ### Building Smart Software Solutions
 
-### 💙 Modern • Fast • Secure • Intelligent
+### Modern • Fast • Responsive • Scalable • AI Powered
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:00C6FF,50:0072FF,100:6A11CB"/>
 
 </div>
