@@ -1,179 +1,227 @@
-# 👨‍💻 Suhaim Ali VP (Suhaim Soft)
+<div align="center">
 
-🚀 BCA Cyber Security Student | Full Stack Web Developer
+# 🚀 Suhaim Ali VP
 
----
+### Founder & Full Stack Web Developer
 
-## 👋 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Founder+of+Suhaim+Soft;Full+Stack+Web+Developer;Building+Modern+Business+Software;Laravel+%7C+React+%7C+PHP+%7C+MySQL;AI+Assisted+Software+Development" />
 
-Hi, I'm Suhaim Ali VP, founder of Suhaim Soft.
+<br>
 
-I am currently pursuing a Bachelor of Computer Applications (BCA) in Cyber Security while building real-world software applications. I specialize in developing secure, scalable, and efficient web systems for healthcare, laboratories, workshops, and business automation using modern web technologies.
+[![Website](https://img.shields.io/badge/Website-SuhaimSoft-0ea5e9?style=for-the-badge)](https://suhaimsoft.in/)
+[![Email](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge)](mailto:info@suhaimsoft.com)
 
----
-
-## 🎓 Education
-
-**Bachelor of Computer Applications (BCA) – Cyber Security**
-Currently Pursuing Degree Studies
+</div>
 
 ---
 
-## 💼 Software Solutions
+# 👋 About Me
 
-### 🏥 EMR (Electronic Medical Record System)
+I'm **Suhaim Ali VP**, Founder of **Suhaim Soft**.
 
-A complete EMR system for clinics, hospitals, and healthcare centers.
+I build modern, scalable, and user-friendly web applications for healthcare, laboratories, workshops, and business management.
 
-#### Core Modules
-
-* Patient Registration & Records
-* Electronic Medical Records (EMR)
-* Doctor Management
-* Appointment Scheduling
-* Prescription Management
-* Medical History Tracking
-* Billing & Invoice System
-* Reports & Analytics
-
-#### Key Features
-
-* Fast and responsive system
-* Secure patient data handling
-* Automated medical workflow
-* Clean and easy dashboard
+My focus is creating professional software with clean UI, optimized performance, secure architecture, and automation powered by AI.
 
 ---
 
-### 🔬 Laboratory Management System (PHP / Laravel / MySQL)
+# 🎓 Education
 
-A complete laboratory management system designed to digitalize lab operations.
+### Bachelor of Computer Applications (BCA)
 
-#### Core Modules
-
-* Patient Registration
-* Sample Collection & Tracking
-* Test Management
-* Laboratory Report Generation
-* Billing & Invoice System
-* Payment Tracking
-* Record Management
-* Report Printing & Export
-* Dashboard & Analytics
-* Search & Filtering
-
-#### Key Features
-
-* Fully automated lab workflow
-* Fast and secure data processing
-* Easy report generation
-* Real-time tracking system
-* Clean user interface
-* Scalable for all lab sizes
+Currently Pursuing
 
 ---
 
-### 🚗 Workshop Management System (PHP / Laravel / MySQL)
+# 🚀 Software Solutions
 
-A complete automobile workshop management system.
+<div align="center">
 
-#### Core Modules
+| 🏥 Healthcare | 🔬 Laboratory | 🚗 Workshop |
+|--------------|---------------|-------------|
+| EMR System | Laboratory Management | Workshop ERP |
+| Clinic Management | Sample Tracking | Vehicle Management |
+| Digital Prescriptions | Billing | Job Cards |
+| Patient Records | Reports | Spare Parts |
 
-* Customer Management
-* Vehicle Management
-* Job Card Management
-* Service Tracking
-* Spare Parts Inventory
-* Billing & Invoice System
-* Payment Management
-* Service History Tracking
-* Reports & Analytics
-* Inventory Management
-
-#### Key Features
-
-* Digital workshop workflow system
-* Fast and structured database design
-* Automated billing and job tracking
-* Easy vehicle service management
-* Secure customer data handling
-* Real-time service updates
-* Professional dashboard system
+</div>
 
 ---
 
-## 🚀 Other Solutions
+# 🏥 EMR Management System
 
-* Laboratory Management System
-* Workshop Management System
-* EMR Healthcare System
-* Custom Web Application Development
+## Modules
 
----
+- 👨‍⚕️ Patient Registration
+- 📅 Appointment Management
+- 🩺 Doctor Management
+- 💊 Digital Prescription
+- 📂 Medical Records
+- 💳 Billing & Payments
+- 📈 Reports & Analytics
 
-## 💻 Technologies
+### Features
 
-### EMR System
+✅ Responsive Dashboard
 
-* MongoDB
-* React.js
-* Frontend UI Development
+✅ Fast Performance
 
-### Laboratory System
+✅ Smart Workflow
 
-* PHP
-* Laravel Framework
-* MySQL
-* Blade Templates
+✅ Modern UI
 
-### Workshop System
-
-* PHP
-* Laravel Framework
-* MySQL
-* Blade Templates
-* SQL Database Design
+✅ Secure Architecture
 
 ---
 
-## 🤖 AI-Assisted Development
+# 🔬 Laboratory Management System
 
-* AI Coding Assistance
-* Debugging Support
-* Code Optimization
-* Faster Development Workflow
-* Automation in Development
+## Modules
 
----
+- Patient Registration
+- Sample Collection
+- Test Management
+- Result Generation
+- Billing
+- Payment Tracking
+- Report Printing
+- Analytics Dashboard
 
-## 🌐 Projects & Websites
+### Features
 
-* https://suhaimsoft.in/
-* https://awwarlabs.in/
+✅ Automated Laboratory Workflow
 
----
+✅ Fast Report Generation
 
-## 🚀 Client Projects
+✅ Smart Search
 
-* https://www.dayahomeopathy.com/
-* https://ozondetailing.in/
-* https://www.lapoelection.com/
-* https://stonexterio.in/
+✅ Barcode Ready
 
----
+✅ Professional Dashboard
 
-## 📧 Contact
-
-Email: [info@suhaimsoft.com](mailto:info@suhaimsoft.com)
-Website: https://suhaimsoft.in/
+✅ Real-Time Tracking
 
 ---
 
-## ⭐ Vision
+# 🚗 Workshop Management System
 
-To become a skilled Full Stack Developer and Cyber Security Professional, building secure, scalable, and intelligent software systems for healthcare, laboratories, workshops, and businesses using modern technologies.
+## Modules
 
-### Suhaim Soft
+- Customer Management
+- Vehicle Management
+- Job Cards
+- Spare Parts
+- Inventory
+- Billing
+- Payments
+- Service History
+- Reports
 
-Building Smart Software Solutions with Modern Technology & AI.
+### Features
 
+✅ Modern Dashboard
+
+✅ Fast Workflow
+
+✅ Inventory Control
+
+✅ Service Tracking
+
+✅ Professional Billing
+
+---
+
+# 💼 Other Solutions
+
+✨ Business Management Software
+
+✨ ERP Systems
+
+✨ Custom Web Applications
+
+✨ Inventory Systems
+
+✨ Billing Systems
+
+✨ CRM Solutions
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+
+### Backend
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb)
+
+</div>
+
+---
+
+# 🤖 AI-Assisted Development
+
+- 🤖 AI Powered Development
+- ⚡ Faster Coding
+- 🛠 Code Optimization
+- 🐞 Debugging
+- 📈 Performance Improvement
+- 🚀 Productivity Enhancement
+
+---
+
+# 🌐 Projects
+
+### Official Website
+
+🌍 https://suhaimsoft.in/
+
+### Products
+
+- 🏥 EMR Management System
+- 🔬 Laboratory Management System
+- 🚗 Workshop Management System
+
+---
+
+# 👨‍💼 Client Projects
+
+- https://www.dayahomeopathy.com/
+- https://ozondetailing.in/
+- https://www.lapoelection.com/
+- https://stonexterio.in/
+
+---
+
+# 📞 Contact
+
+📧 **info@suhaimsoft.com**
+
+🌐 **https://suhaimsoft.in/**
+
+---
+
+<div align="center">
+
+# ⭐ Suhaim Soft
+
+### Building Smart Software Solutions
+
+### 💙 Modern • Fast • Secure • Intelligent
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
+
+</div>
